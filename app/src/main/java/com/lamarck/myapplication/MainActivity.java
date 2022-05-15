@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Log.d("lf","Sera que funcionou");
+                Log.d("lf","Sera que funciona novamente");
             }
         });
     }
